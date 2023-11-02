@@ -60,6 +60,30 @@ main {
     margin-bottom: -3.5em;
 }
 
+main ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.catgallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: space-evenly;
+    padding: 2%;
+    margin: 2%;
+}
+.catgallery li {
+    height: 40vh;
+    flex-grow: 1;
+}
+
+.catgallery li img {
+    max-width: 23em;
+    max-height: 10em;
+    object-fit: cover;
+}
+
 footer {
     background-color: #F1BA3A;
 }
@@ -71,7 +95,7 @@ footer, .push {
 
 nav ul {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-evenly;
     list-style: none;
 }
