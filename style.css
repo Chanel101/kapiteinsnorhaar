@@ -53,7 +53,6 @@ header h1 {
 header img {
     width: 11.72em;
     height: 11.72em;
-
 }
 
 main {
@@ -67,10 +66,12 @@ footer {
 
 footer, .push {
     height: 3.5em;
+    width: 100%;
 }
 
-nav ul{
+nav ul {
     display: flex;
-    align-content: space-between;
-    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
 }
