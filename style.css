@@ -6,7 +6,6 @@
 h1 {
     font-family: lemon milk, Verdana, Geneva, Tahoma, sans-serif;
     color: #fff8f7;
-    font-size: 40px;
 }
 
 h2 {
@@ -30,6 +29,7 @@ header h1 {
     position: absolute;
     margin-top: 8%;
     margin-left: 5%;
+    font-size: 40px;
 }
 
 .square1 {
