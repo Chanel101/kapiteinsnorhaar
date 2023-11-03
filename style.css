@@ -69,7 +69,7 @@ main ul {
 .catgallery {
     display: flex;
     flex-wrap: wrap;
-    align-items: space-evenly;
+    justify-content: center;
     padding: 2%;
     margin: 2%;
 }
