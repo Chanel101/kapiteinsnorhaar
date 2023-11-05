@@ -27,32 +27,34 @@ header {
 header h1 {
     grid-column: 1 / span 2;
     position: absolute;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-left: 5%;
     font-size: 40px;
 }
 
+header img {
+    position: absolute;
+    margin-left: 13em;
+    width: 11.72em;
+    height: 11.72em;
+}
+
 .square1 {
-    width: 100%;
+    width: 23.44em;
     height: 11.72em;
     background: #87AFE8;
 }
 
 .square2 {
-    width: 100%;
+    width: 23.44em;
     height: 11.72em;
     background: #D13C3A;
 }
 
 .square3 {
-    width: 100%;
+    width: 23.44em;
     height: 11.72em;
     background: #F1BA3A;
-}
-
-header img {
-    width: 11.72em;
-    height: 11.72em;
 }
 
 main {
