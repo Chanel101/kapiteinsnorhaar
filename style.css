@@ -34,9 +34,10 @@ header h1 {
 
 header img {
     position: absolute;
-    margin-left: 13em;
-    width: 11.72em;
-    height: 11.72em;
+    margin-top: 1em;
+    margin-left: 15em;
+    width: 7em;
+    height: 7em;
 }
 
 .square1 {
