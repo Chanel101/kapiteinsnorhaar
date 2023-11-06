@@ -15,7 +15,7 @@ h2 {
 
 p {
     font-family: brandon grotesque, Arial, Helvetica, sans-serif;
-    margin: 7%;
+    margin: 5.5%;
     font-size: 14px;
 }
 
@@ -69,6 +69,36 @@ main ul {
     justify-content: space-evenly;
     list-style: none;
 }
+
+main img {
+    width: 80%;
+    margin-left: 6%;
+    margin-right: 10%;
+}
+
+a.button {
+    display: flex;
+    justify-content: center;
+    padding: 0.5em;
+    margin-left: 32%;
+    margin-bottom: 0.5em;
+    max-width: fit-content;
+    background-color: #d93d3d;
+    color: #000000;
+    text-decoration: none;
+    border: 0.5rem solid #f2b33d;
+    border-radius: 1rem;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: lemon milk, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section a:hover {
+    background-color: #982a2a;
+    transition: 0.4s;
+    transform: scale(1.05);
+}
+
 .catgallery {
     display: flex;
     flex-wrap: wrap;
@@ -77,7 +107,7 @@ main ul {
     margin: 2%;
 }
 .catgallery li {
-    height: 40vh;
+    height: 23vh;
     flex-grow: 1;
 }
 
