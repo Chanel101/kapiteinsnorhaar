@@ -27,7 +27,7 @@ header {
 header h1 {
     grid-column: 1 / span 2;
     position: absolute;
-    margin-top: 15%;
+    margin-top: 18%;
     margin-left: 5%;
     font-size: 40px;
 }
