@@ -83,10 +83,10 @@ a.button {
     margin-left: 32%;
     margin-bottom: 0.5em;
     max-width: fit-content;
-    background-color: #d93d3d;
+    background-color: #f2b33d;
     color: #000000;
     text-decoration: none;
-    border: 0.5rem solid #f2b33d;
+    border: 0.5rem solid  #da8e00;
     border-radius: 1rem;
     font-size: 15px;
     font-weight: bold;
@@ -100,20 +100,23 @@ section a:hover {
 }
 
 .intro p {
-    margin-left: 10%;
     margin-right: 7%;
     margin-bottom: -5%;
 }
 
 .intro img {
-    width: 15%;
-    margin-left: 1%;
+    width: 18%;
+    position: relative;
+    margin-top: -7%;
     margin-bottom: -7%;
+    margin-left: 1%;
 }
 
-.intro img:last-child {
-    margin-left: 80%;
-    margin-bottom: 0.5%;
+.donatie img:first-child {
+    width: 20%;
+    position: relative;
+    margin-left: 70%;
+    margin-bottom: -5%;
 }
 
 .catgallery {
