@@ -20,12 +20,12 @@ h1 {
 
 h2 {
     font-family: 'Lemon Milk';
-    margin: 5%;
+    margin: 5% 5% 2% 5%;
 }
 
 p {
     font-family: 'Brandon Grotesque';
-    margin: 5.5%;
+    margin: -2% 5% 7% 5.5%;
     font-size: 14px;
 }
 
@@ -121,7 +121,7 @@ section a:hover {
 
 .intro h2 {
     margin-left: 20%;
-    margin-bottom: -10%;
+    margin-bottom: -5%;
 }
 
 .intro p {
@@ -132,8 +132,7 @@ section a:hover {
 .intro img {
     width: 18%;
     position: relative;
-    margin-top: -7%;
-    margin-bottom: -7%;
+    margin-top: -10%;
     margin-left: 1%;
 }
 
