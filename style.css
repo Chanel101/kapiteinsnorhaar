@@ -3,18 +3,28 @@
     margin: 0;
 }
 
+@font-face {
+    font-family: 'Lemon Milk';
+    src: url(fonts/LEMONMILK-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url(fonts/HvDTrial_Brandon_Grotesque_regular-BF64a625c9311e1.otf);
+}
+
 h1 {
-    font-family: lemon milk, Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lemon Milk';
     color: #fff8f7;
 }
 
 h2 {
-    font-family: lemon milk, Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lemon Milk';
     margin: 5%;
 }
 
 p {
-    font-family: brandon grotesque, Arial, Helvetica, sans-serif;
+    font-family: 'Brandon Grotesque';
     margin: 5.5%;
     font-size: 14px;
 }
@@ -90,7 +100,7 @@ a.button {
     border-radius: 1rem;
     font-size: 15px;
     font-weight: bold;
-    font-family: lemon milk, Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lemon Milk';
 }
 
 section a:hover {
