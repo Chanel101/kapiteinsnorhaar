@@ -42,11 +42,13 @@ header h1 {
     font-size: 40px;
 }
 
+/*header pagina 2*/
 header.boot h1 {
     font-size: 45px;
     margin-top: 30%;
 }
 
+/*header pagina 3*/
 header.adoptie h1 {
     font-size: 40px;
     margin-top: 30%;
@@ -60,6 +62,7 @@ header img {
     height: 7em;
 }
 
+/*vierkanten kleur*/
 .square1 {
     width: 23.44em;
     height: 11.72em;
@@ -96,6 +99,7 @@ main img {
     margin-right: 10%;
 }
 
+/*doneer hier button*/
 a.button {
     display: flex;
     justify-content: center;
@@ -119,6 +123,7 @@ section a:hover {
     transform: scale(1.05);
 }
 
+/*inleiding pagina 1*/
 .intro h2 {
     margin-left: 20%;
     margin-bottom: -5%;
@@ -136,6 +141,7 @@ section a:hover {
     margin-left: 1%;
 }
 
+/*tweede uitgeknipte kat*/
 .donatie img:first-child {
     width: 20%;
     position: relative;
@@ -143,10 +149,12 @@ section a:hover {
     margin-bottom: -5%;
 }
 
+/*kaart Poezenboot*/
 .locatie img {
     margin-bottom: 4em;
 }
 
+/*galerij pagina 3*/
 .catgallery {
     display: flex;
     flex-wrap: wrap;
