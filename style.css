@@ -42,6 +42,16 @@ header h1 {
     font-size: 40px;
 }
 
+header.boot h1 {
+    font-size: 45px;
+    margin-top: 30%;
+}
+
+header.adoptie h1 {
+    font-size: 40px;
+    margin-top: 30%;
+}
+
 header img {
     position: absolute;
     margin-top: 1em;
@@ -107,6 +117,11 @@ section a:hover {
     background-color: #982a2a;
     transition: 0.4s;
     transform: scale(1.05);
+}
+
+.intro h2 {
+    margin-left: 20%;
+    margin-bottom: -10%;
 }
 
 .intro p {
