@@ -144,6 +144,10 @@ section a:hover {
     margin-bottom: -5%;
 }
 
+.locatie img {
+    margin-bottom: 4em;
+}
+
 .catgallery {
     display: flex;
     flex-wrap: wrap;
