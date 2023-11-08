@@ -101,7 +101,7 @@ a.button {
     justify-content: center;
     padding: 0.5em;
     margin-left: 32%;
-    margin-bottom: 0.5em;
+    margin-bottom: 9em;
     max-width: fit-content;
     background-color: #f2b33d;
     color: #000000;
@@ -150,6 +150,7 @@ section a:hover {
     justify-content: center;
     padding: 2%;
     margin: 2%;
+    margin-bottom: 7em;
 }
 
 .catgallery li {
@@ -165,11 +166,9 @@ section a:hover {
 
 footer {
     background-color: #F1BA3A;
-}
-
-footer, .push {
-    height: 3.5em;
-    width: 100%;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
 }
 
 nav ul {
